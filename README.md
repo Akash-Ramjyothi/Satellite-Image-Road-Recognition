@@ -1,9 +1,9 @@
-# Road-Network-Extraction
-We have performed Road-Network-Extraction using classical Image processing and few libraries.
+# Satellite Image Processing Project - Road Recognition and Extraction
+I have performed Road-Network-Extraction using classical Image processing and few libraries.
 
 ## PRE 
-We performed here various methods and steps and experimented a bit after reading various research paper.
-We have stored the part we liked, it includes loading the image and applying unsharp making via gaussian filter and then we performed canny edge detection.
+I performed here various methods and steps and experimented a bit after reading various research paper.
+I have stored the part I liked, it includes loading the image and applying unsharp making via gaussian filter and then I performed canny edge detection.
 
 ## Road-Network-Extraction-final- 
 Here is the final project which include steps as -
@@ -25,7 +25,7 @@ Here is the final project which include steps as -
 
 * Clone Repo
   
-    ``` https://github.com/abhaykes1/Road-Network-Extraction.git ```
+    ``` https://github.com/Akash-Ramjyothi/Satellite-Image-Road-Recognition.git ```
 
 * Change working directory
 
@@ -35,18 +35,18 @@ Here is the final project which include steps as -
 
     ``` python3 Main.py ```
 
-## Outputs
+## Sample Demo:
 
 ### Input image
 <img src='output/Input.png'>
 
-### Segmentation using k-means
+### Segmentation using K-Means Algorithm
 <img src='output/Segmented.png'>
 
 ### epsilon neighbourhood thresholding 
 <img src='output/Epsilon-Thresholded.png'>
 
-### Road extracted
+### Result:
 <img src='output/Output.png'>
 
 
